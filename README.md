@@ -1,5 +1,5 @@
-<img align="center" src="https://github.com/alokVerma749/asignmentSem3/blob/master/Alok%20kumar%20verma.gif" alt="coding" width="900" height ="350" />
-<h1 align="center">Hi 👋, I'm Alok Kumar Verma</h1>
+<img align="center" src="https://github.com/abhinav822/asignmentSem3/blob/master/Alok%20kumar%20verma.gif" alt="coding" width="900" height ="350" />
+<h1 align="center">Hi 👋, I'm Abhinav Pratap Singh</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
 <h3 align="center"></h3>
 
@@ -9,15 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/alok_std" target="blank"><img src="https://img.shields.io/twitter/follow/alok_std?logo=twitter&style=for-the-badge" alt="alok_std" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelancer**
-
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬  I would love to talk about **open source and accessibility.**
-
-- 👨‍💻 My portfolio is available at https://alokverma749.github.io
-
-- 📫 How to reach me **alokverma749@gmail.com**
+- 📫 How to reach me **pabhinav400@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,14 +56,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### ✍️ Blog Posts : 
-- [Context API in ReactJs](https://alokverma.hashnode.dev/context-api-in-reactjs)
-
-- [Detail guide to position in CSS with code examples](https://alokverma.hashnode.dev/detail-guide-to-position-in-css-with-code-examples)
-
-- [JavaScript Array](https://alokverma.hashnode.dev/javascript-array)
-
----
-
 ### Show some ❤️ by starring some of the repositories!

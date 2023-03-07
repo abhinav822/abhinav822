@@ -33,9 +33,9 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhinav822&theme=flat) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj3028&show_icons=true&locale=en&layout=compact" alt="abhinav822" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav822&show_icons=true&locale=en&layout=compact" alt="abhinav822" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj3028&show_icons=true&locale=en" alt="abhinav822" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav822&show_icons=true&locale=en" alt="abhinav822" /></p>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav822&" alt="abhinav822" /></p>
 
